@@ -1,6 +1,6 @@
 Ce que ça fait :
 
-🔐 Chiffrement fort — vos données sont chiffrées avec PBKDF2 (200 000 itérations) + HMAC pour vérifier l'intégrité
+🔐 Chiffrement fort — vos données sont chiffrées
 
 💾 100% portable — le fichier vaultkey_data.enc est créé dans le même dossier que le script → copiez les deux sur votre clé USB et ça marche sur n'importe quel ordinateur
 
